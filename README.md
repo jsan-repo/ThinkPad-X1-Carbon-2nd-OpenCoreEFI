@@ -1,1 +1,1 @@
-# x1-carbon-2-oc
+# ThinkPad-X1-Carbon-2014-EFI
